@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Hoje trabalho com full stack
+- 🔭 Hoje trabalho como dev full stack
 - 🌱 estou aprendendo sobre TailWind
 
  <div align="center">
