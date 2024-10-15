@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Csharp" height="30" width="60" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="center" alt="Rafa-Csharp" height="30" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
-###
+
 
 <h1 align="center"></h1>
 
