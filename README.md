@@ -2,7 +2,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 Hoje trabalho como dev full stack
 - 🌱 estou aprendendo sobre TailWind
