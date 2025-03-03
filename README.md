@@ -20,7 +20,11 @@
   <img align="center" alt="Rafa-Python" height="30" width="80" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="Rafa-Csharp" height="30" width="80" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="center" alt="Rafa-Csharp" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
- <img align="center" alt="Rafa-Csharp" height="30" width="80" src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://icons8.com.br/icon/CIAZz2CYc6Kc/tailwindcss)">
+   <svg class="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 54 33" xmlns="http://www.w3.org/2000/svg">
+    <path d="M13.5 0L27 33H0L13.5 0Z" fill="currentColor"/>
+  </svg>
+  
+ 
 </div>
 
 
