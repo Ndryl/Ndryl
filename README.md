@@ -4,7 +4,7 @@
 
 
 - 🔭 Hoje trabalho como dev full stack
-- 🌱 estou aprendendo sobre TailWind
+- 🌱 estou aprendendo sobre Nest e Express
 
  <div align="center">
    <a href="https://github.com/Ndryl">
@@ -20,6 +20,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="80" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="Rafa-Csharp" height="30" width="80" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="center" alt="Rafa-Csharp" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+ <img align="center" alt="Rafa-Csharp" height="30" width="80" src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://icons8.com.br/icon/CIAZz2CYc6Kc/tailwindcss)">
 </div>
 
 
