@@ -36,5 +36,5 @@ Sou um desenvolvedor full stack apaixonado por aprender e criar soluções inova
 </div>
 
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/9c/ad/b0/9cadb02e8d9e99df1fb0f846057d83eb.gif" alt="Imagem ilustrativa" />
+  <img height="150" src="https://gifgifs.com/animations/anime/dragon-ball-z/Vegeta/vegeta_21.gif" alt="Imagem ilustrativa" />
 </div>
