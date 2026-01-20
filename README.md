@@ -14,19 +14,16 @@ Atualmente trabalho com **C#/.NET, SQL Server** e estou expandindo meus conhecim
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Ndryl">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Ndryl&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false"
-      height="150"
-      alt="GitHub Stats"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=Ndryl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=cobalt&hide_border=false"
-      height="150"
-      alt="Top Languages"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ndryl&show_icons=true&theme=cobalt&cache_seconds=1800"
+    height="150"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Ndryl&layout=compact&langs_count=6&theme=cobalt&cache_seconds=1800"
+    height="150"
+  />
 </div>
+
 
 ---
 
